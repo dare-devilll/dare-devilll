@@ -2,8 +2,11 @@
 
 # 💫About Me :
 🔭 I’m currently working on my DSA & CP Skills.
+
 🌱 I’m learning more about Android & Flutter development.
+
 👯 I’m looking to collaborate on anything free and open source.
+
 📫 How to reach me: Email - vedantdandge11@gmail.com
 
 ## 🌐Socials
